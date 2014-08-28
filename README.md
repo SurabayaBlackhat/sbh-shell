@@ -1,7 +1,7 @@
 # SurabayaBlackhat Shell
 > Current Version 2.5
 
-![Surabayablackhat Shell v.2.5](http://i.imgur.com/Psm0Zuq.jpg)
+![Surabayablackhat Shell v.2.5](https://raw.githubusercontent.com/SurabayaBlackhat/sbh-shell/master/screenshot/version-2.5.jpg)
 
 ## Features
 * WSO Shell
@@ -29,4 +29,4 @@
 > The first display you will find the fake message "internal server error", press tab and type the password **`surabayablackhat`**.
 Yes...this is hidden shell.
 
-*we accept suggestions for the next version of the shell. we will continue to fix the error script*
+* we accept suggestions for the next version of the shell. we will continue to fix the error script*
